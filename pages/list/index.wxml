@@ -1,0 +1,46 @@
+<!--index.wxml-->
+<!--<import src="../../template/item-template.wxml" />--》
+
+<!--<view class="container">
+    <template is="list_index_items_tmpl" data="{{...list_index_items_tmpl}}" />
+</view>-->
+
+<view class="container">
+    <image src="/image/V7702.jpg"></image>
+</view>
+<view class="container">
+    <image src="/image/F9.jpg"></image>
+</view>
+<view class="container">
+    <image src="/image/K77.jpg"></image>
+</view>
+<view class="container">
+    <image src="/image/L77.jpg"></image>
+</view>
+<view class="container">
+    <image src="/image/LS79.jpg"></image>
+</view>
+<view class="container">
+    <image src="/image/T77.jpg"></image>
+</view>
+<view class="container">
+    <image src="/image/T7701.jpg"></image>
+</view>
+<view class="container">
+    <image src="/image/V77.jpg"></image>
+</view>
+<view class="container">
+    <image src="/image/V177.jpg"></image>
+</view>
+<view class="container">
+    <image src="/image/V551.jpg"></image>
+</view>
+<view class="container">
+    <image src="/image/V7701.jpg"></image>
+</view>
+<view class="container">
+    <image src="/image/V7703.jpg"></image>
+</view>
+<view class="container">
+    <text class="daodi">到底了</text>
+</view>

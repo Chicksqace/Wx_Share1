@@ -1,0 +1,23 @@
+<!--index.wxml-->
+
+<view class="gy1">
+    <image src="/image/gy1.jpg"></image>
+</view>
+ <view class="text">
+        <view class="line_y"></view>
+        <text>关于企业</text>
+    </view> 
+
+     <view class="text2">
+        <text>
+   泉州大白网络科技是最大的锁业服务企业之一，一直以技术服务引领着锁业发展   
+   核心技术在于防盗安全系统及便民的“锁事”服务。
+公司地址：XXXXXXXXXXXXXXXXXXXXX
+全国统一服务电话：400-0000-000
+</text>
+    </view> 
+
+<view class="gy">
+    <image src="/image/gy.jpg"></image>
+</view>
+<button type="default" bindtap="calling">点击拨打客服电话</button>
